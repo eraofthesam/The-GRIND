@@ -1,0 +1,14 @@
+<style>
+
+body {
+font-family: 'PT Serif', serif;
+
+}
+
+header {
+background: img=src ('cozy2.jpg');
+background-size: cover;
+}
+
+
+</style>
