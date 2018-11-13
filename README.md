@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+<<<<<<< HEAD
 
 
 
@@ -9,4 +10,7 @@
 
 
 
+=======
+<p2> Located at the heart of East London, The Grind is a sociable, friendly and up-beat Cafe. We offer a range of catering events, from small parties to large parties. Occasionally, singers are invited here to perform a variety of music such as Jazz and Pop. Just give us a message below if you would like to reserve a table or perform at The Grind and we would get back to you as soon as possible! </p2>
+>>>>>>> 7b09bfc2e1857d77bd32a7bc83776dc3a3aa7fed
   </head>
